@@ -1,0 +1,22 @@
+{
+  "name": "solanabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venusgalstar/SolanaBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venusgalstar/SolanaBot/issues"
+  },
+  "homepage": "https://github.com/venusgalstar/SolanaBot#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6"
+  }
+}
