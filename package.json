@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/venusgalstar/SolanaBot#readme",
   "dependencies": {
-    "@solana/web3.js": "^1.87.6"
+    "@raydium-io/raydium-sdk": "^1.3.1-beta.40",
+    "@solana/spl-token": "^0.3.9",
+    "@solana/web3.js": "^1.87.6",
+    "axios": "^1.6.2"
   }
 }
